@@ -1,0 +1,11 @@
+/brandable-domains-pipeline
+│
+├── Brandable Domains Pipeline.py       # Your main Streamlit app code
+├── requirements.txt                    # Copy from REQUIREMENTS.TXT TEMPLATE
+├── config.py                           # Copy from CONFIG TEMPLATE (config.py)
+├── .env                                # Copy from .ENV TEMPLATE
+├── .gitignore                          # From the earlier .gitignore template
+├── LICENSE                             # From the LICENSE TEMPLATE
+├── README.md                           # From the README TEMPLATE
+│
+└── /venv                               # Optional: virtual environment folder (auto-generated if you use venv)
