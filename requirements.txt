@@ -1,0 +1,10 @@
+# --- REQUIREMENTS.TXT TEMPLATE ---
+
+'''
+openai
+requests
+streamlit
+python-dotenv
+'''
+
+# --- END OF REQUIREMENTS TEMPLATE ---
