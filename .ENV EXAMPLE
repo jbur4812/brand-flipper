@@ -1,0 +1,12 @@
+# --- .ENV EXAMPLE TEMPLATE ---
+
+'''
+# Example .env file - replace with your real credentials
+OPENAI_API_KEY=sk-your-openai-api-key-here
+NAMECHEAP_API_USER=exampleUser
+NAMECHEAP_API_KEY=your-namecheap-api-key
+NAMECHEAP_API_IP=127.0.0.1
+'''
+
+# --- END OF .ENV EXAMPLE ---
+#
